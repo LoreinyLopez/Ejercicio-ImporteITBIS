@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpuestoITBIS", "ImpuestoITBIS.csproj", "{0950FF4F-2A34-4D77-80A7-546E6F5FD981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0950FF4F-2A34-4D77-80A7-546E6F5FD981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950FF4F-2A34-4D77-80A7-546E6F5FD981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950FF4F-2A34-4D77-80A7-546E6F5FD981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950FF4F-2A34-4D77-80A7-546E6F5FD981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C386426-2C17-4F05-8987-B85B68E170F4}
+	EndGlobalSection
+EndGlobal
